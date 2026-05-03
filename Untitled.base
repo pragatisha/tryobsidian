@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - deadline
+      - file.tags
+      - file.size
+      - file.path
+      - file.mtime
+      - file.folder
+      - file.ext
+      - file.basename
