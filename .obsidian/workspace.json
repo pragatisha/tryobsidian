@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game development document.md",
+                "file": "_templates/Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game development document"
+              "title": "Project"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game development document.md",
+                "file": "_templates/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Game development document"
+              "title": "Backlinks for Project"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game development document.md",
+                "file": "_templates/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Game development document"
+              "title": "Outgoing links from Project"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game development document.md",
+                "file": "_templates/Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game development document"
+              "title": "Outline of Project"
             }
           }
         ]
@@ -200,13 +200,13 @@
   },
   "active": "49b98725f12d046a",
   "lastOpenFiles": [
+    "_templates/Daily Note.md",
+    "Game development document.md",
     "Screenshot 2569-05-02 at 11.32.18 PM.png",
     "2026/05/2026-05-03 Sun.md",
-    "Game development document.md",
     "Untitled 1.base",
     "Projects/Active/My new project note.md",
     "_templates/Project.md",
-    "_templates/Daily Note.md",
     "_util/Inbox.md",
     "_util/Today.md",
     "2026/05/2026-05-01 Fri.md",
